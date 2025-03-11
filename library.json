@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Bang-e-darra",
+        "author": "",
+        "year": 1890,
+        "genre": "",
+        "read": true,
+        "file_path": ""
+    },
+    {
+        "title": "ffyhjevef",
+        "author": "",
+        "year": 0,
+        "genre": "",
+        "read": false,
+        "file_path": "uploaded_books\\Maryam resume.pdf"
+    },
+    {
+        "title": "Maryam",
+        "author": "dcjdffmfvv",
+        "year": 3434,
+        "genre": "frf",
+        "read": true,
+        "file_path": "uploaded_books\\Maryam resume.pdf"
+    },
+    {
+        "title": "History of life",
+        "author": "Maryam Anwar",
+        "year": 2025,
+        "genre": "",
+        "read": false,
+        "file_path": ""
+    },
+    {
+        "title": "Maryam's resume ",
+        "author": "Maryam ",
+        "year": 2025,
+        "genre": "hehe",
+        "read": false,
+        "file_path": "uploaded_books\\Dev Maryam resume.pdf"
+    }
+]
